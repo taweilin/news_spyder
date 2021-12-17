@@ -1,4 +1,3 @@
 pandas
 pymssql
-sqlal
 sqlalchemy
